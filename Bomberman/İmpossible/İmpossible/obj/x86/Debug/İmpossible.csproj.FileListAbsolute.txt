@@ -1,0 +1,16 @@
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\İmpossible.exe
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\İmpossible.pdb
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\obj\x86\Debug\İmpossible.csprojResolveAssemblyReference.cache
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\obj\x86\Debug\İmpossible.exe
+C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\obj\x86\Debug\İmpossible.pdb

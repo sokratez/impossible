@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossibleContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossibleContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sokrates\Source\Repos\Bomberman\İmpossible\İmpossible\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-03-17T09:29:34.0121969+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
